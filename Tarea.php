@@ -2,6 +2,7 @@
 session_start();
 ?>
 
+ <!-- PRUEBA DE COMENTARIOS -->
 
 <!DOCTYPE html>
 <html lang="en">
